@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hafsa Sheikh! 👋
 
-<!--
-**hafsa-shaikh/hafsa-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Software Engineering student with a deep passion for programming logic, automation, and cybersecurity. 
 
-Here are some ideas to get you started:
+### 🎓 Academic & Professional Training
+- *Python Development Certification* | NED University of Engineering and Technology
+- *Cybersecurity & Ethical Hacking Certification* | NED University of Engineering and Technology
+- *Google AI Essentials Specialization* | Coursera
+- *Google Prompt Engineering Essentials Specialization* | Coursera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- *Languages:* Python (OOP, Core Logic, Data Structures)
+- *Concepts:* Software Architecture, Password Analysis, Algorithmic Problem Solving
+
+📂 Check out my independent repositories below to see my coding logic in action!
