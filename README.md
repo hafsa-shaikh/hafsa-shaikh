@@ -1,15 +1,38 @@
-# Hi, I'm Hafsa Sheikh! 👋
+# Hi there, I'm Hafsa Sheikh! 👋 💻
 
-I am an aspiring Software Engineering student with a deep passion for programming logic, automation, and cybersecurity. 
+Welcome to my digital space! I am an aspiring **Software Engineering** student dedicated to building clean, secure, and data-driven software solutions. 
 
-### 🎓 Academic & Professional Training
-- *Python Development Certification* | NED University of Engineering and Technology
-- *Cybersecurity & Ethical Hacking Certification* | NED University of Engineering and Technology
-- *Google AI Essentials Specialization* | Coursera
-- *Google Prompt Engineering Essentials Specialization* | Coursera
+I leverage strong foundational programming logic, object-oriented concepts, and a proactive mindset to design web applications and automation scripts.
 
-### 🛠️ Tech Stack & Skills
-- *Languages:* Python (OOP, Core Logic, Data Structures)
-- *Concepts:* Software Architecture, Password Analysis, Algorithmic Problem Solving
+---
 
-📂 Check out my independent repositories below to see my coding logic in action!
+### 🎓 Academic & Professional Specializations
+- 🐍 **Advanced Python Development Certification** | *NED University of Engineering & Technology*
+- 🛡️ **Cybersecurity & Ethical Hacking Certification** | *NED University of Engineering & Technology*
+- 🤖 **Google AI Essentials Specialization** | *Coursera Verified*
+- 🎯 **Google Prompt Engineering Essentials Specialization** | *Coursera Verified*
+
+---
+
+### ⚙️ Core Technical Skillset & Tools
+- **Programming Languages:** Python (Core Logic, Data Structures, OOP, Functional Scripting)
+- **Web Frameworks:** Streamlit (Full-Stack Web App Development & Cloud Deployment)
+- **Core Security Concepts:** Cryptographic Credential Analysis, System Vulnerability Mitigation, Regex Pattern Validation
+
+---
+
+### 🚀 Highlighted Independent Projects
+*Click the links below to view my clean source code or try out my live software implementations:*
+
+- 🌐 **[Interactive Growth Mindset Engine](https://streamlit.app)** - A cloud-deployed interactive full-stack web application built using Python and Streamlit.
+- 🔑 **[Password Strength Analyzer](https://github.com)** - A security-centric tool implementing algorithmic rule-based criteria to evaluate password entropy.
+- 📚 **[Personal Library Manager](https://github.com)** - An object-oriented local console application featuring local JSON data persistence file architecture.
+
+---
+
+### 📫 Connect With Me
+- 📧 **Email:** [Your Professional Email Here]
+- 💼 **LinkedIn:** [Your LinkedIn Profile URL Here or remove this line if not active yet]
+
+*“The best way to predict the future is to code it.”* Let's innovate! ✨
+
