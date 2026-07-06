@@ -20,6 +20,7 @@ I leverage strong foundational programming logic, object-oriented concepts, and 
 - **Core Security Concepts:** Cryptographic Credential Analysis, System Vulnerability Mitigation, Regex Pattern Validation
 
 ---
+---
 
 ### 🚀 Highlighted Independent Projects
 *Click the links below to view my clean source code or try out my live software implementations:*
@@ -27,6 +28,10 @@ I leverage strong foundational programming logic, object-oriented concepts, and 
 - 🌐 **[Interactive Growth Mindset Engine](https://streamlit.app)** - A cloud-deployed interactive full-stack web application built using Python and Streamlit.
 - 🔑 **[Password Strength Analyzer](https://github.com)** - A security-centric tool implementing algorithmic rule-based criteria to evaluate password entropy.
 - 📚 **[Personal Library Manager](https://github.com)** - An object-oriented local console application featuring local JSON data persistence file architecture.
+- ⚖️ **[Advanced BMI Calculator](https://github.com)** - A standalone command-line Python application developed to calculate Body Mass Index.
+
+---
+
 
 ---
 
