@@ -31,8 +31,8 @@ I leverage strong foundational programming logic, object-oriented concepts, and 
 ---
 
 ### 📫 Connect With Me
-- 📧 **Email:** [Your Professional Email Here]
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL Here or remove this line if not active yet]
+- 📧 **Email:** [hafsashaikh911@gmail.com]
+- 💼 **LinkedIn:** [[Your LinkedIn Profile URL Here or remove this line if not active yet](https://www.linkedin.com/in/hafsa-shaikh-717a98342/)]
 
 *“The best way to predict the future is to code it.”* Let's innovate! ✨
 
