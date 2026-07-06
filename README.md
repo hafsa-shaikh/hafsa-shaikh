@@ -28,7 +28,7 @@ I leverage strong foundational programming logic, object-oriented concepts, and 
 * 🌐 **[Interactive Growth Mindset Engine](https://lnkd.in/gyYzceuy)** - A cloud-deployed interactive full-stack web application built using Python and Streamlit.
 - 🔑 **[Password Strength Analyzer](https://lnkd.in/gj9836W2)** - A security-centric tool implementing algorithmic rule-based criteria to evaluate password entropy.
 - 📚 **[Personal Library Manager](https://github.com)** - An object-oriented local console application featuring local JSON data persistence file architecture.
-- ⚖️ **[Advanced BMI Calculator](https://lnkd.in/g-pXvx4v)** - A standalone command-line Python application developed to calculate Body Mass Index.
+- ⚖️ **[Advanced BMI Calculator](https://hafsa-shaikh-bmi-calculator-app-zcxhag.streamlit.app/)** - A standalone command-line Python application developed to calculate Body Mass Index.
 
 ---
 
