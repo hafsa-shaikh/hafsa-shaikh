@@ -26,7 +26,7 @@ I leverage strong foundational programming logic, object-oriented concepts, and 
 *Click the links below to view my clean source code or try out my live software implementations:*
 
 * 🌐 **[Interactive Growth Mindset Engine](https://hafsa-shaikh-growth-mindset-challenge-main-goljen.streamlit.app/)** - A cloud-deployed interactive full-stack web application built using Python and Streamlit.
-- 🔑 **[Password Strength Analyzer](https://github.co]https://hafsa-shaikh-password-strength-meter-main-homxjj.streamlit.app/)** - A security-centric tool implementing algorithmic rule-based criteria to evaluate password entropy.
+- 🔑 **[Password Strength Analyzer](https://lnkd.in/gj9836W2)** - A security-centric tool implementing algorithmic rule-based criteria to evaluate password entropy.
 - 📚 **[Personal Library Manager](https://github.com)** - An object-oriented local console application featuring local JSON data persistence file architecture.
 - ⚖️ **[Advanced BMI Calculator](https://github.com)** - A standalone command-line Python application developed to calculate Body Mass Index.
 
